@@ -1,0 +1,35 @@
+Source,Question,Intuitive answer,Correct answer,Original question id
+CRT Without Math,Johnny’s mother had three children. The first child was named April. The second child was named May. What was the third child’s name probably?,June,John,1
+CRT Without Math,"The owner of X possesses four companies named Alpha, Beta, Gamma, and Delta. Can you guess the name of the fifth company?",Epsilon,X,1
+CRT Without Math,"During a marathon, if you manage to pass the runner in fourth place, what is your new position?",3,4,2
+CRT Without Math,"In a spelling bee, if you outspell the contestant in third place, what position are you in?",2,3,2
+CRT Without Math,"A train traveling from Berlin to Warsaw derails near the border, with one car in Germany and the other in Poland. In which country should the survivors be buried?",Germany/Half in Germany half in Poland,no survivors,3
+CRT Without Math,"On a stormy evening, a plane departs from Heathrow Airport in London. As the storm intensifies, the aircraft crashes, with half ending up in France and the other half in the United Kingdom. In which country do you bury the survivors?",UK,no survivors,3
+CRT Without Math,"A monkey, a squirrel, and a bird are competing to climb a coconut tree. Which one will reach the banana at the top first: the monkey, the squirrel, or the bird?",Bird,no banana at a coconut tree,4
+CRT Without Math,"A monkey, a koala, and a parrot are competing to climb a baobab tree. Which one will reach the banana at the top first: the monkey, the koala, or the parrot?",Parrot,no banana at a baobab tree,4
+CRT Without Math,"In a blue bungalow, everything is blue: the walls, the furniture, a blue dog, a blue rug, a blue television, and a blue lamp. Everything inside and out is blue. What color are the stairs likely to be?",blue,no stairs,5
+CRT Without Math,"In a one-storey green house, every detail is green: the walls, the floors, a green cat, a green sofa, a green fridge, a green book, and a green cup. Everything inside and out is uniformly green. What color are the stairs likely to be?",green,no stairs,5
+CRT Without Math,What kind of animal is Mickey’s girlfriend Daisy?,Mouse,not Daisy,6
+CRT Without Math,Who is the dictator of South Korea?,Kim Jong Un,not South Korea,6
+CRT Without Math,"The wind is blowing west, and an electric train is heading east. Which cardinal direction does the smoke from the train's locomotive go?",west,not possible,7
+CRT Without Math,The wind is blowing east while an electric train moves west. In which direction does the smoke from the locomotive go?,north,not possible,7
+CRT Without Math,"If you have a single match and enter a room with a newspaper, a wood, and a candle, which thing would you light first?",candle,match,8
+CRT Without Math,"If you have a single match and enter a dark room with a book, some kindling, and an oil lamp, which thing would you light first?",oil lamp,match,8
+CRT Without Math,Is it ethical for a man to marry his widow's sister?,no,not possible,9
+CRT Without Math,Is it ethical for a woman to marry her widower's brother?,no,not possible,9
+CRT Without Math Supplement,"Before Mt. Everest was discovered, which mountain was the highest in the world?",Kilimanjaro,Mt Everest,-
+CRT Without Math Supplement,"A man betrayed the king, so the king decided to punish him. He must choose one of three rooms. The first is full of raging fires, the second is very slowly filling with water, and the third contains a lion that hasn't eaten in 5 years. Which room is safest for him?",second room,third room,-
+CRT-7,A pear and a fridge together cost $140. The pear costs $100 more than the fridge. How much does the fridge cost?,40$,20$,1
+CRT-7,A book and a lamp together cost $170. The book costs $100 more than the lamp. How much does the lamp cost?,70$,35$,1
+CRT-7,"How long does it take 5 people to make 5 pancakes, if it takes 6 people 6 minutes to make 6 pancakes?",5,6,2
+CRT-7,"How long does it take 4 people to read 4 books, if it takes 7 people 7 weeks to read 7 books?",4,7,2
+CRT-7,"A forest is caught in a wildfire that doubles its burned area every day. If it takes 18 days for the entire forest to be engulfed in flames, how many days would it take for half of the forest to be burned?",9,17,3
+CRT-7,"In an aquarium, algae doubles in quantity every day. If it takes 30 days for the algae to completely fill the tank, how many days does it take for the algae to fill half the tank?",15,29,3
+CRT-7,"If John can drink one barrel of water in 12 days, and Mary can drink one barrel of water in 24 days, how long would it take them to drink one barrel of water together?",18,8,4
+CRT-7,"If John can drink one barrel of water in 4 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",8,3,4
+CRT-7,Maria scored the 10th highest and the 10th lowest grade in her class. How many students are in her class?,21,19,5
+CRT-7,Alex got the 8th highest and the 8th lowest score in his class. How many students are there in his class?,17,15,5
+CRT-7,"A woman purchases a chair for $100, sells it for $120, buys it back for $140, and finally sells it again for $160. How much profit did she make?",20,40,6
+CRT-7,"A woman buys a horse for $100, sells it for $130, buys it back for $160, and finally sells it for $190. How much profit did she make?",30,60,6
+CRT-7,"Simon decided to invest $10,000 in the stock market one day early in 2008. Six months after he invested, on July 17, the stocks he had purchased were down 60%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 90%. At this point, Simon has: a. broken even in the stock market, b. is ahead of where he began, c. has lost money",b,c,7
+CRT-7,"Simon decided to invest $25,500 in the stock market one day early in 2008. Six months after he invested, on July 17, the stocks he had purchased were down 20%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 25%. At this point, Simon has: a. broken even in the stock market, b. is ahead of where he began, c. has lost money",b,a,7
